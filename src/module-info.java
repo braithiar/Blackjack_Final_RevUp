@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author justi
+ *
+ */
+module BJ
+{
+}
